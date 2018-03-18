@@ -19,14 +19,23 @@ first * so you can change the game if you want.
 
 															
 							    Victory    Treasure    Action
+							    
 Type of card --------------------------------------------------	X --------- X --------- X
+
 Name of card --------------------------------------------------	X --------- X --------- X
+
 Number of cards (not needed for part 1)	-----------------------	X --------- X --------- X
+
 Cost ----------------------------------------------------------	X --------- X --------- X
+
 Victory points ------------------------------------------------	X ---------   --------- X
+
 Add cards -----------------------------------------------------	  ---------   --------- X
+
 Add action ----------------------------------------------------   ---------   --------- X
+
 Add buy -------------------------------------------------------   ---------   --------- X
+
 Special (usually blank but can be used for extra credit) ------ X --------- X --------- X
 
 Part 2: Create the board and a nice output. We will discuss in class the options and vote on
