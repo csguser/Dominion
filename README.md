@@ -17,7 +17,8 @@ The file name is cards.txt, available on D2L\content\homework\dominion
 The file will contain data in this order. The file ends with an * additional cards are after the
 first * so you can change the game if you want.
 
-															Victory		Treasure 	Action
+															
+							    Victory    Treasure    Action
 Type of card --------------------------------------------------	X --------- X --------- X
 Name of card --------------------------------------------------	X --------- X --------- X
 Number of cards (not needed for part 1)	-----------------------	X --------- X --------- X
