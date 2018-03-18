@@ -17,16 +17,18 @@ The file name is cards.txt, available on D2L\content\homework\dominion
 The file will contain data in this order. The file ends with an * additional cards are after the
 first * so you can change the game if you want.
 
--|                                                            | Victory     Treasure     Action |		    
- | Type of card | :-------------------------------------------------- X --------- X --------- X |
- | Name of card | :-------------------------------------------------- X --------- X --------- X |
- | Number of cards (not needed for part 1) | :----------------------- X --------- X --------- X |
- | Cost | :---------------------------------------------------------- X --------- X --------- X |
- | Victory points | :------------------------------------------------ X ---------   --------- X |
- | Add cards | :-----------------------------------------------------   ---------   --------- X |
- | Add action | :----------------------------------------------------   ---------   --------- X |
- | Add buy | :-------------------------------------------------------   ---------   --------- X |
- | Special (usually blank but can be used for extra credit) | :------ X --------- X --------- X |
+| 		              | Victory  | Treasure  | Action |
+| --------------- |:--------:| :--------:| :-----:|
+| Type of card    | 	   X    | 	   X     |  X     |
+| Name of card    |     X    |     X     |  X     |
+| Number of Cards |     X    |     X     |  X     |
+| Cost			         |		   X	   |	    X	    |	 X	    | 
+| Worth			        |			       |	    X	    |	 X 	   |
+| Victory Points  |     X    | 			       |	 X  	  |
+| Add cards       |			       |			        |	 X	    |
+| Add action      |			       |			        | 	X	    |
+| Add buy		       |			       |			        | 	X	    |
+| Special		       |		   X	   |	    X	    |  X	    |
 
 Part 2: Create the board and a nice output. We will discuss in class the options and vote on
 which option we will use. The cards should have a number or a single letter associated with 
@@ -72,6 +74,5 @@ Buy phase and clean up phase.
 Next players turn. 
 The game is officially over when 3 piles of cards on the board are empty. For testing purposes
 you can also play x number of turns. The winner is the one with the most victory points.
-
 
 
